@@ -1,1 +1,1 @@
-www.dedecidao.github.io
+dedecidao.github.io
